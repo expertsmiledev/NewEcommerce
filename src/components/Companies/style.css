@@ -1,0 +1,17 @@
+.companies {
+    max-width: 90%;
+    margin: auto;
+    margin-bottom: 55px;
+}
+
+.companies-inside {
+    color: #1B5A7D;
+    background: #E2F4FF;
+    border-radius: 20px;
+    padding: 44px 0px;
+}
+
+.companies-parts{
+    display: flex;
+    justify-content: center;
+}
